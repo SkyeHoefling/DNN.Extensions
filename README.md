@@ -8,6 +8,7 @@ A list of DNN extensions I maintain or contribute to.
 ## Projects 
 | Project | Contribution Type | 
 |--------------| -------------------|
+| [Huron Theme](https://github.com/ahoefling/HuronTheme) | Maintainer |
 | [Dnn.KeyMaster](https://github.com/HoeflingSoftware/Dnn.KeyMaster) | Maintainer |
 | [Dnn.StaticSiteHandler](https://github.com/ahoefling/Dnn.StaticSiteHandler) | Maintainer |
 | [VSTS-DNN-Version](https://github.com/HoeflingSoftware/VSTS-DNN-Version) | Maintainer |
