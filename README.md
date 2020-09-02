@@ -8,6 +8,7 @@ A list of DNN extensions I maintain or contribute to.
 ## Projects 
 | Project | Contribution Type | 
 |--------------| -------------------|
+| [Persona Bar Sample - Uno Platform](https://github.com/ahoefling/Dnn.PersonaBar.Uno.Sample) | Maintainer |
 | [Huron Theme](https://github.com/ahoefling/HuronTheme) | Maintainer |
 | [Dnn.KeyMaster](https://github.com/HoeflingSoftware/Dnn.KeyMaster) | Maintainer |
 | [Dnn.StaticSiteHandler](https://github.com/ahoefling/Dnn.StaticSiteHandler) | Maintainer |
