@@ -12,6 +12,7 @@ A list of DNN extensions I maintain or contribute to.
 | [Persona Bar Sample - Uno Platform](https://github.com/ahoefling/Dnn.PersonaBar.Uno.Sample) | Maintainer |
 | [Huron Theme](https://github.com/ahoefling/HuronTheme) | Maintainer |
 | [Dnn.KeyMaster](https://github.com/HoeflingSoftware/Dnn.KeyMaster) | Maintainer |
+| [Dnn Dependency Injection Samples](https://github.com/ahoefling/DNN.DependencyInjection.Samples) | Maintainer |
 | [Dnn.StaticSiteHandler](https://github.com/ahoefling/Dnn.StaticSiteHandler) | Maintainer |
 | [VSTS-DNN-Version](https://github.com/HoeflingSoftware/VSTS-DNN-Version) | Maintainer |
 | [Dnn Summit 2019 Mobile App](https://github.com/DNNAssociation/DnnSummit2019.Mobile) | Maintainer |
